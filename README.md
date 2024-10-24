@@ -36,4 +36,4 @@ git clone https://github.com/jeanavellaneda/createResourceWithAzureTerraform.git
 - **terrform destroy :** Elimina todos los recursos gestionados por Terraform en la configuración actual
 
 <img src="assets/resource_group.png"><br>
-<img src="assets/piepeline.png"><br>
+<img src="assets/pipeline.png"><br>
